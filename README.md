@@ -21,7 +21,7 @@ Hello, I'm **Muhamad Rayhan**, a student at **UNFARI Bandung** and a web develop
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhamad-rayhan-fadillah-89098a30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAY2xjawG3b1RleHRuA2FlbQIxMQABpr_MNeVV1AKiRmIAIE2QPUjrfwhdGSaa1tjhg-akqB-sTq0VUN4j4r1gqQ_aem_m-dDgNwrWl2UoXNC03Jeow)
 - 📷 [Instagram](https://www.instagram.com/muhamadrayhan23_/profilecard/?igsh=YjR4ZWVqZGF4bGVs)
 - 🌐 [Portfolio](https://si-stmikjabar23.id/Rayhan/)
-- 📧 [rayhanfaidasa023@gmail.com)
+- 📧 [rayhanfaidasa023@gmail.com]
 
 ---
 
