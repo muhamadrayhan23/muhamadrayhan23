@@ -7,7 +7,6 @@ Hello, I'm **Muhamad Rayhan**, a student at **UNFARI Bandung** and a web develop
 
 ### 🚀 My Skills
 
-#### Frontend  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
