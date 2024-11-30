@@ -5,7 +5,7 @@ Hello, I'm **Muhamad Rayhan**, a student at **UNFARI Bandung** and a web develop
 
 ---
 
-### 🚀 My Skills
+### 🚀 Tecnologies That I Used
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
