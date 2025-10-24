@@ -14,6 +14,7 @@ Hello, I'm **Muhamad Rayhan**, a student at **UNFARI Bandung** and a web develop
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-FF2D20?logo=react&logoColor=white&style=flat)
 
 ---
 
